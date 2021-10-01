@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Aryan Shinde, A web dev
 
 <!--
 **AryanShinde/AryanShinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,11 +19,12 @@ Here are some ideas to get you started:
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AryanShinde&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> -->
 
-<h3>Things i love to work on: </h3>
-<h2>Web ❤️</h2>
+<h3>Things I love to work on: </h3>
+<h1>Web ❤️</h1>
 
-<h3>My Tools</h3>
-<div style="display:flex;">
+
+<div style="display:flex;" align="center">
+  <h3>My Tools</h3>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -35,12 +36,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"  />
 </div>
 <br>
-<h3>Connect with me here!</h3>
+<h3 align="center">Connect with me here!</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/aryan-shinde-14ab58201/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/aryan.shinde.29/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://twitter.com/aryan_aag" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://www.blogger.com/u/1/blog/posts/3257685037274308193?pli=1" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="blogspot"></a>
 <a href="https://medium.com/@aryan.shinde.29" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  </p>
 
 
 
