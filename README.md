@@ -18,19 +18,29 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AryanShinde&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=000000&icon_color=000000&text_color=D3D3D3&bg_color=0,8B73FF,8B73FF" alt="AryanShinde's Github Stats">
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AryanShinde&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> -->
-<div style="display:flex;">
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" style="height:40px; width:50px" />
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" style="height:40px; width:50px" />
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" style="height:40px; width:50px" />
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" style="height:40px; width:50px"/>
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" style="height:40px; width:50px" />
-</div>
-Connect with me!
 
-<a href="https://www.linkedin.com/in/aryan-shinde-14ab58201/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="height:20px; width:60px"></a>
-<a href="https://www.instagram.com/aryan.shinde.29/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram" style="height:20px; width:60px"></a>
-<a href="https://www.blogger.com/u/1/blog/posts/3257685037274308193?pli=1" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="blogspot" style="height:20px; width:60px"></a>
-<a href="https://medium.com/@aryan.shinde.29" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" style="height:20px; width:60px"></a>
+<h3>Things i love to work on: </h3>
+<h4>Web ❤️</h4>
+
+<h3>My Tools</h3>
+<div style="display:flex;">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"  />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"  />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"  />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"  />
+</div>
+<br>
+<h3>Connect with me here!</h3>
+<a href="https://www.linkedin.com/in/aryan-shinde-14ab58201/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/aryan.shinde.29/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://twitter.com/aryan_aag" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://www.blogger.com/u/1/blog/posts/3257685037274308193?pli=1" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="blogspot"></a>
+<a href="https://medium.com/@aryan.shinde.29" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
 
 
 
