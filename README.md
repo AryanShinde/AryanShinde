@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AryanShinde&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> -->
 
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" style="height:40px; width:50px" />
+<!-- <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" /> -->
 
 Connect with me!
 
