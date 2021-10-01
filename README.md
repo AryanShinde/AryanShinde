@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AryanShinde&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> -->
 
 <h3>Things i love to work on: </h3>
-<h4>Web ❤️</h4>
+<h2>Web ❤️</h2>
 
 <h3>My Tools</h3>
 <div style="display:flex;">
