@@ -20,17 +20,17 @@ Here are some ideas to get you started:
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AryanShinde&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> -->
 
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" style="height:40px; width:50px" />
-<!-- <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" /> -->
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" style="height:40px; width:50px" />
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" style="height:40px; width:50px" />
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" style="height:40px; width:50px"/>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" style="height:40px; width:50px" />
 
 Connect with me!
 
-<a href="https://www.linkedin.com/in/aryan-shinde-14ab58201/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/aryan.shinde.29/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.blogger.com/u/1/blog/posts/3257685037274308193?pli=1" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="blogspot"></a>
-<a href="https://medium.com/@aryan.shinde.29" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+<a href="https://www.linkedin.com/in/aryan-shinde-14ab58201/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="height:30px; width:60px"></a>
+<a href="https://www.instagram.com/aryan.shinde.29/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram" style="height:30px; width:60px"></a>
+<a href="https://www.blogger.com/u/1/blog/posts/3257685037274308193?pli=1" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="blogspot" style="height:30px; width:60px"></a>
+<a href="https://medium.com/@aryan.shinde.29" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" style="height:30px; width:60px"></a>
 
 
 
