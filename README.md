@@ -16,12 +16,15 @@ Here are some ideas to get you started:
 -->
 ![image](https://user-images.githubusercontent.com/73652194/147917284-2e6d48ba-8fb8-4947-9be2-e393134aa841.png)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AryanShinde&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=000000&icon_color=000000&text_color=D3D3D3&bg_color=0,8B73FF,8B73FF" alt="AryanShinde's Github Stats">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanShinde&show_icons=true&theme=cobalt)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanShinde&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AryanShinde&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> -->
 
-<h3>Things I love to work on: </h3>
-<h1>Web ❤️</h1>
+<h3 align="center">Things I love to work on: </h3>
+<h1 align="center">Web ❤️</h1>
 
 
 <div style="display:flex;" align="center">
