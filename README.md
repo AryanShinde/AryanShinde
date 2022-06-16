@@ -13,8 +13,8 @@
 
 - 📫 How to reach me **Mail me @aryan.shinde.29@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1vJT4PEaQGJGT5FTGo13_ekyGV8mVLwjaLPzNujqb3Dk/edit?usp=sharing](https://docs.google.com/document/d/1vJT4PEaQGJGT5FTGo13_ekyGV8mVLwjaLPzNujqb3Dk/edit?usp=sharing)
-
+<!-- - 📄 Know about my experiences [https://docs.google.com/document/d/1vJT4PEaQGJGT5FTGo13_ekyGV8mVLwjaLPzNujqb3Dk/edit?usp=sharing](https://docs.google.com/document/d/1vJT4PEaQGJGT5FTGo13_ekyGV8mVLwjaLPzNujqb3Dk/edit?usp=sharing)
+ -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aryan_aag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryan_aag" height="30" width="40" /></a>
